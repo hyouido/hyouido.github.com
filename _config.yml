@@ -1,5 +1,5 @@
 # Site settings
-title: ehgydml도효의
+title: 도효의 블로그
 url: "http://hyouido.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -10,7 +10,7 @@ description: >
 email: hyouido@gmail.com
 author: hyoui
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: 도효의
+profile: ehgydml
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
